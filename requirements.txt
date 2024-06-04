@@ -1,0 +1,5 @@
+#requirements file
+pip freeze > requirements.txt
+pip install -r requirements.txt
+#flask
+pip install Flask<2.0
